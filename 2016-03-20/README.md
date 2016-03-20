@@ -53,7 +53,7 @@ This has about 350000+ words.  Using this list I found one solution.
 I also found a couple of other word lists, although these were not as
 handy because all the words were not in just one big list.
 
-http://wordlist.aspell.net
+http://wordlist.aspell.net  
 http://dreamsteep.com/projects/the-english-open-word-list.html
 
 Solution
