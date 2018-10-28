@@ -30,6 +30,10 @@ with open('words.txt', 'r') as f:
             words3 += [word]
 
 # now words3 contains all the 3 letter words in the dictionary
+# TODO an obvious optimization here would be to filter for 3 letter
+# words that contain characters from the input_list. That would make the
+# 3-letter word list much smaller and the below search would run much
+# faster.
 
 # return 3 letter word at the specified row (0-2)
 def row_word(thelist, row_num):
